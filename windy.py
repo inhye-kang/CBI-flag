@@ -3,7 +3,7 @@ import numpy as np
 import requests
 from decimal import Decimal, ROUND_HALF_UP
 
-URL = "https://api.openweathermap.org/data/2.5/forecast?lat=42.3536&lon=71.0893&appid=7fcbdd7ad43b4a8999155aa9a4cc87ed"
+URL = "https://api.openweathermap.org/data/2.5/forecast?lat=42.3536&lon=71.0893&appid=MyAPIKey"
 
 CITY = "Boston"
 
